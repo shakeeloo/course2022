@@ -1,0 +1,23 @@
+.border1{
+    border-width: 5px;
+    border-style: solid;
+    border-color: blueviolet;
+    border: 5px solid red;
+}
+.border2{
+    border: 5px dashed green;
+    width: 50%;
+
+}
+.border3{
+    border: 5px solid blue;
+    border-radius: 15px;
+    width: 50%;
+}
+.image1{
+    background-image: url('../images/download.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed
+}
